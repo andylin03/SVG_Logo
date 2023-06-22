@@ -47,10 +47,13 @@ Build a Node.js command-line application that takes in user inputs to generates 
 (Optional) Regarding future use, you may alter the prompted questions within the index.js to best suit your needs.
 # Screenshots
 # Figure 1 (Command Line)
-<img width="1052" alt="Screenshot 2023-06-22 at 11 28 43 AM" src="https://github.com/andylin03/SVG-Logo/assets/126199540/88e59eb4-b5a6-4b9e-b16d-caf53ac7a738">
+<img width="1052" alt="Screenshot 2023-06-22 at 11 28 43 AM" src="https://github.com/andylin03/SVG_Logo/assets/126199540/0f5507fd-ffb0-4ab9-8cd5-a57af0f52bfc">
+
+
 
 # Figure 2 (Generated "logo.svg" file)
-<img width="298" alt="Screenshot 2023-06-22 at 11 30 25 AM" src="https://github.com/andylin03/SVG-Logo/assets/126199540/4f553c41-e2b6-4745-b23f-5cde959f4d98">
+<img width="298" alt="Screenshot 2023-06-22 at 11 30 25 AM" src="https://github.com/andylin03/SVG_Logo/assets/126199540/a3e6d258-3c5b-4675-8774-43c85bc12623">
+
 
 # Figure # (NPM Test)
 <img width="1020" alt="Screenshot 2023-06-22 at 12 15 47 PM" src="https://github.com/andylin03/SVG_Logo/assets/126199540/7d771007-8f93-4f66-a211-c259315297ec">
