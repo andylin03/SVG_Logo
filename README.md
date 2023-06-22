@@ -83,6 +83,10 @@ Open the integrated terminal for the document and complete the respective instal
 * Continue creating SVG files to practice
 * Add more user prompts to create more possibilities among a rendered SVG image.
 
+  # Walk through Video
+  https://github.com/andylin03/SVG_Logo/assets/126199540/af5d09d2-26a9-4e8a-862b-a2b237806cc7
+
+
   # License
   MIT License
 
